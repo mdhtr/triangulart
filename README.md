@@ -1,7 +1,7 @@
-# Triangulart
+# A fork of: Triangulart by maxwellito
 
-Dummy graphic editor to make isometric illustrations. It's like pixel art, but for triangles.
+Try it on [mdhtr.github.io/triangulart](https://mdhtr.github.io/triangulart)
 
-Try it on [maxwellito.github.io/triangulart](https://maxwellito.github.io/triangulart)
-
-The editor is really basic but does the job pretty well. Unfortunately, many features are missing: touch screen support, undo, fill, move a group, zoom... 
+Features added:
+* pen button ([#15|https://github.com/maxwellito/triangulart/issues/15])
+* touch support ([#18|https://github.com/maxwellito/triangulart/issues/18])
